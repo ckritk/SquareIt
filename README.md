@@ -1,4 +1,8 @@
 # SquareIt
+<p align="center">
+  <img src="demo.gif" alt="Alt Text">
+</p>
+
 ## Overview
 This is a Python-based grid game implemented using Pygame, where two players take turns selecting dots to form squares. The first player to complete a square wins. The game includes an AI agent using the Minimax algorithm for single-player mode.
 
