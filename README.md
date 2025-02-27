@@ -1,6 +1,6 @@
 # SquareIt
 <p align="center">
-  <img src="demo.gif" alt="Alt Text">
+  <img src="demo.gif" alt="Alt Text" width = 500px>
 </p>
 
 ## Overview
